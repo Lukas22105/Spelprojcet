@@ -1,0 +1,1 @@
+{"coins": 0, "hp": 100, "dmg": 6, "level": 1, "ml": 1, "hl": 1, "mhs": 5, "vs": ["Club"], "rarity": ["common"]}

@@ -1,0 +1,93 @@
+Scythe
+Longsword
+Battle Axe
+Club
+Throwing stars
+Lance
+Bow and Arrows
+Dagger
+Crossbow
+Slingshot
+Mace
+Spear
+Poison Darts
+Sickle
+Missle
+land mine
+Pistol
+Machine gun
+Whip
+Grenade
+Rapier
+Saber
+Cutlass
+Scimitar
+Brass Knuckles
+hatchet
+Flail
+Quarterstaff
+Pitchfork
+Flamethrower
+Bazooka
+poison bottle
+tranquilizer darts
+katana
+nuke
+chemical bomb
+spear
+tazer
+pepper spray
+tank
+stun baton
+cannon
+handgun
+nunchucks
+torpedo
+dynamite
+sniper rifle
+broadsword
+revolver
+machine gun
+Infinity
+The Light
+Piety
+Abomination
+Stormcaller
+Typhoon
+King's Legacy
+Corpsemaker
+Peacekeeper
+Early Retirement
+Stick
+Knife
+Blade
+Club
+Ax
+Sword
+Spear
+Halberd
+Pike
+Lance
+Javelin
+Boomerang
+Crossbow
+Bolo
+Flamethrower
+Grenade
+Harpoon
+Spear
+Bow and Arrow
+Artillery
+Cannon
+Rocket
+Missile
+Torpedo
+Anthrax
+E. Coli
+Smallpox
+Cholera
+(Bubonic) Plague
+Nerve Gas
+Mustard Gas
+Tear Gas
+Pepper Spray
